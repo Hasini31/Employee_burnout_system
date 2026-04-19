@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: burnout-detection-backend
+Version: 0.1.0
+Requires-Python: >=3.11
+Requires-Dist: flask>=3.0.0
+Requires-Dist: flask-cors>=4.0.0
+Requires-Dist: textblob>=0.17.0
+Requires-Dist: numpy>=1.26.0
+Requires-Dist: scikit-learn>=1.4.0

@@ -1,0 +1,7 @@
+main.py
+pyproject.toml
+burnout_detection_backend.egg-info/PKG-INFO
+burnout_detection_backend.egg-info/SOURCES.txt
+burnout_detection_backend.egg-info/dependency_links.txt
+burnout_detection_backend.egg-info/requires.txt
+burnout_detection_backend.egg-info/top_level.txt
